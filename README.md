@@ -16,3 +16,7 @@ Nuevas lineas
 ## How to Contribute
 
 Contribute
+
+## Copyright
+
+2014 Git.Training.
