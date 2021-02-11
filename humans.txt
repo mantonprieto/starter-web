@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Maria A      maria@prueba.com @maria
 
 # THANKS
 
